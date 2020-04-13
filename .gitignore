@@ -25,3 +25,6 @@ yarn-error.log*
 # python related
 venv
 __pycache__
+
+# visual studio
+.vscode
